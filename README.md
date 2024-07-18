@@ -1,4 +1,4 @@
-Old JPuzzler simulator: https://web.archive.org/web/20050403003844/http://www.mud.ca/puzzler/JPuzzler/JPuzzler.html
+Old JPuzzler applet: https://web.archive.org/web/20050403003844/http://www.mud.ca/puzzler/JPuzzler/JPuzzler.html
 
 Props to Michael Feather for restoring the JPuzzler Java applet by Multi-User Dimensions Inc.: https://mfeather1.github.io/ACJS_Evolution/cheer.html
 
